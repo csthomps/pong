@@ -1,0 +1,6 @@
+Implementation of Pong
+
+Can play 2 player or against AI
+
+Uses NEAT AI to train neural network
+Save neural network with pickle
